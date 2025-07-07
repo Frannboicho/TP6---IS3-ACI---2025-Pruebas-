@@ -11,4 +11,4 @@ Feature: Función suma
   Scenario: Sumar números negativos
     Given tengo los números -2 y 3
     When ejecuto la función suma
-    Then el resultado debe ser 1
+    Then el resultado debe ser 1
